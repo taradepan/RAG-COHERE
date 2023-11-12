@@ -32,7 +32,7 @@ schema = {
   "classes": [
     {
       "class": "Chatbot",
-      "description": "A class called document",
+      "description": "A class for Chatbot",
       "vectorizer": "text2vec-cohere",
       "moduleConfig": {
         "text2vec-cohere": {
